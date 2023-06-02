@@ -9,6 +9,8 @@
 ---
 ## Usage
 ---
+## Examples
+
 
 ---
 ## Benchmarks
