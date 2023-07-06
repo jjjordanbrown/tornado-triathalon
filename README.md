@@ -11,7 +11,8 @@
 ---
 ## Examples
 
-
+---
+## Commentary
 ---
 ## Benchmarks
 ---
